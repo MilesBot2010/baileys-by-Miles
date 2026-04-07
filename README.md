@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <strong>𝑻𝒉𝒆𝒔𝒆 𝒃𝒚𝒍𝒂𝒘𝒔 𝒂𝒓𝒆 𝒎𝒂𝒅𝒆 𝒃𝒚</strong>
+  <strong>𝑻𝒉𝒆𝒔𝒆 𝒃𝒂𝒚𝒍𝒊𝒆𝒔 𝒂𝒓𝒆 𝒎𝒂𝒅𝒆 𝒃𝒚</strong>
 </div>
 
 <h1 align="center">
